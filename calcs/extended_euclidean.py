@@ -14,6 +14,7 @@ def extended_euclidean(a: int, n: int):
     '''
     Rozszerzony Algorytm Euklidesa. Przyjmuje dwie nieujemne liczby całkowite a, n, gdzie a >= n.
     '''
+    print('\n')
     x: int = n
     y: int = a
     print(f'{fmt("i")}{fmt("u(i)")}{fmt("up(i)")}{fmt("v(i)")}{fmt("vp(i)")}{fmt("n(i)")}{fmt("a(i)")}{fmt("q(i)")}{fmt("r(i)")}\n')
