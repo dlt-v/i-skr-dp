@@ -1,2 +1,2 @@
 *.pyc
-/cached
+/__pycache__
