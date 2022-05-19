@@ -5,9 +5,9 @@ print("A ========================")
 # p_a = int(input("liczba pierwsza p: "))
 # q_a = int(input("liczba pierwsza q: "))
 # e_a = int(input("liczba e: "))
-p_a = 37
-q_a = 47
-e_a = 1001
+p_a = 11
+q_a = 29
+e_a = 89
 # fi
 fi_a = (p_a - 1)*(q_a - 1)
 print(f'\nØ = (p - 1)(q - 1) = {fi_a}')
@@ -29,4 +29,3 @@ print(f'\nKlucz prywatny: ({x}, {n_a})')
 
 
 # Bob chce wysłać do Alicji wiadomość, której wartość wynosi x=20 zaszyfrowaną przy użyciu algorytmu RSA. Oblicz wartość szyfrogramu y.
-
