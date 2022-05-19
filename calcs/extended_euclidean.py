@@ -77,4 +77,4 @@ def extended_euclidean(a: int, n: int):
     return temp_v
 
 
-extended_euclidean(11, 125)
+# extended_euclidean(11, 125)
